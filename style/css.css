@@ -1,0 +1,79 @@
+#box{
+	width: 400px;
+	height: auto;
+	margin:60px auto;
+}
+
+#footPart{
+	padding-top: 60px;
+}
+
+#tagInput{
+	width: 200px;
+	height: 30px;
+}
+
+hr{
+	margin-left: -50px;
+}
+
+span{
+	font-size: 14px;
+}
+
+#newTags{
+	 height: 100px;
+	width: 300px; 
+	margin-top: 40px;
+	display: flex;
+}
+
+#newTags div{
+	flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    height: 30px;
+
+    margin-left: 5px;
+    padding: 18px;
+	background: rgba(50,100,50,0.7);
+} 
+
+
+#newHobbies{
+	height: 100px;
+	width: 200px; 
+	margin-top: 40px;
+	display: flex;
+}
+
+#newHobbies div{
+	flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis: auto;
+    height: 20px;
+
+     margin-left: 5px;
+   padding: 18px; 
+	background: rgba(50,140,50,0.7);
+} 
+
+
+#footPart span{
+	float: left;
+	margin-left: -40px;
+}
+
+#hobbyInput{
+	display: block;
+	width: 260px;
+	height: 120px;
+
+}
+
+#btn{
+	width: 160px;
+	height: 30px;
+	margin-left: 120px;
+	margin-top: 20px;
+}
